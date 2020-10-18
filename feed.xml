@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-18T09:41:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AT THE BOTTOM OF GAMEDEV</title><subtitle>Diving in...</subtitle><entry xml:lang="en"><title type="html">That thing that had to be an introduction</title><link href="http://localhost:4000/en/none/2020/10/16/introduction.html" rel="alternate" type="text/html" title="That thing that had to be an introduction" /><published>2020-10-16T08:53:57-07:00</published><updated>2020-10-16T08:53:57-07:00</updated><id>http://localhost:4000/en/none/2020/10/16/introduction</id><content type="html" xml:base="http://localhost:4000/en/none/2020/10/16/introduction.html">&lt;p&gt;Privet. My name is Ivan and I work in game development industry. &lt;br /&gt;
+In this blog I plan to write about different engineering things I encounter on my way. Sometimes to share the knowledge, but mostly to preserve what my mind struggles to remember.&lt;br /&gt;
+Topics may very, promise I will try my best to stick to game development. Expect it to lean heavier on engineering side.&lt;/p&gt;
+
+&lt;h1 id=&quot;question-remains-though---why-the-bottom&quot;&gt;Question remains though - why &lt;span style=&quot;color:red&quot;&gt;the bottom&lt;/span&gt;?&lt;/h1&gt;
+&lt;p&gt;Well, imagine that there is a hierarchy among game engineers.&lt;br /&gt;
+Starting from the top:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gameplay programmers&lt;/strong&gt;. &lt;br /&gt;
+Directly involved in implementing all the game whistles. They collaborate directly with game designers and artists, it’s a tough job but when you want to go grab a beer you definitely want this guy to be there. He’s a rockstar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Game engine programmers&lt;/strong&gt;.  &lt;br /&gt;
+Dark magicians of sacred knowledge, this garden is not to be stepped in by random passersby. Rare and very precious breed.&lt;/p&gt;
+
+&lt;p&gt;H̸̼͑̕u̵̟͐g̸̨̗̈e̵̳͌ ̸̛̜̚g̷̬͠ă̴̺p̵͚͆ ̴̬̕̕n̵̲̏͐a̷̹̠̎m̸̨̒̏e̷̞̽̚d̶̠́ ̷̤̪̅T̴͆̐͜Ḫ̵̮̆̋Ȩ̸̓ ̵͍͛̌V̷̡͇̋͠O̸̗͇͝I̴̭͖͋̄D̷̢̝̃,̶͙͔͒ ̸͓͇́ë̵̢̦́̽n̵̼̆g̴̰̯͗̅i̶̟̟̊n̷̤̪͠ȅ̷͉è̵̹̐r̶͇̂͘ͅs̸͚̖̓ ̴̳̎w̸̢͔͌h̶̄̏ͅǒ̷̬̐ ̷̦̙͂̚ä̵̬̦ȑ̷̳̙̕ę̵͕̑͋ ̵̯͔̈́͆ō̸̠̄v̸̠̗̓e̷̖̊r̵̻͝ ̴͓̰̄͝t̵͚̔̾h̷͎̓å̷̬̈t̸̢̖́͝ ̸̰̂l̷͚͌i̵͖̟̿n̴͈̖̈́͗ĕ̵͚ ̴̠̉̚d̵̬̞̐o̶̦͠ ̴̧̕n̶̗̺͗o̶͓̻͌̔t̷̩̓̚ ̶̺͖͒s̴͍͑ẻ̷͉ȩ̷͗̄͜ ̸̰͚͂̕í̸͔̠t̷̞̔̇ ̶͉̍ă̸̘n̴͖͐d̸̙͚͒ ̸̗̥̃͝b̸̲̃ẽ̸͉̰l̷̹͝ḯ̸̺̣ě̵͓v̵̭̙̾͛e̴͇͌ ̸͖͛i̶̬̾ͅt̴͓̍̈́ ̵̛̠̼̉ḏ̴͆õ̶͚͎e̶̞̍ș̶̞̄̋ ̵̻̖̒͒n̷̬͐͜ô̶̪̊t̶̹̲̔ ̸͍̈́ȇ̸̺̪̊x̴̞̀i̴̹̚̕s̴̩̎͗t̷̙̿.̷̥͓̉͘ ̶̯̈́̚ͅ
+̷̡͉̆Y̷͉̖̿e̴̬̘͂t̷͓̙͗̎ ̷̮͓̅i̷̪̒̅t̴͍̚’̸͇̑͝s̸͚̣͊ ̸̯̌̐h̴̡͓̍̓e̸̦̖͂r̸͑ͅĕ̷͔̟ ̴̬̕a̷͉͒̕n̸̲̋d̷̥͎͛̈ ̷̮̐͌i̵̳͠ț̴͉̓̊’̶̤̂̎s̵̠͑͝ ̶͓͒õ̵̭n̵͕̙̆̔l̴̦̱̍y̵̛͓͗ ̶̪̀͑v̵̞͠į̶̢͂s̶̪̄i̵̡͝ḃ̶̨̮̏ľ̷͍̘e̷̛͔̯ ̸͈̜̂f̶̘̂͝ŏ̸̠̂r̷̒̚ͅ ̷̬̍́ṱ̶̙͘h̷̻̭̆̌o̸̩͛s̶͍͓̓͆e̶͕̎̽ ̵͈͝w̵͔̽̎h̸͔͇̀o̵̻̮̓ ̵͉̫̉̍a̶͇͂̈ṟ̷̬͆̅ȅ̶̦̦̿ ̶̲͈̽̌u̵̬̍̾n̸͓̿d̵̡͋̾e̷̟͆̐ŗ̷͔̐ ̵͈̊͘t̴̼̐̇h̴͈̮̾͗e̷̦̟͌ ̶͈̘̒l̸̳̔͝i̸̢͠n̷̦̤̂ȩ̸͇̓͑,̴̹̐͝ ̵̛̞͙l̶̪̆̍o̴̞͔͆ỏ̷̱͕̎ḱ̷̭i̴͒̕ͅn̷͇͝g̴̝̗̏̀ ̷̖̪͠ủ̴͚̬̓p̷͚̔ ̷̡̋̄t̸͍̱̒h̸̨͎̊̒e̸̪͊ŗ̵̽̑͜e̸͇͋̂ ̵̳̊̎ą̸̪̏n̸̮̟͋͊d̵̮̰̎ ̸͈͇͆n̵͚̯̊ö̴̜́͘ẗ̶͔́̏ ̴̜̈ș̸̏̌e̷̼̘̐͘ḛ̸̌i̶̝̬̐͘n̴̡͖̔ģ̵͊̋ ̵̰̆̒ȃ̴̝̳n̴̤͚̋̕y̵͍̓͘ ̶̘̱̎w̷̡͇͊ā̶̮̯̚y̵̤͚͂̚ ̵̤̳̚ṯ̶̨̈õ̵͕̜̒ ̷̬̀̾r̷͔͇̊͝e̶͚̳̅a̷̠̒̔c̴̖͛͜h̷͓͇̑ ̶͙̏ḧ̵̭̰́i̷̪͚͒̒ğ̶̮h̴̨̍͐e̵̦͛͝r̷̜̱̀͋.̸̢̋&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UI programmers&lt;/strong&gt;. &lt;br /&gt;
+They are nice guys, really. Close friends with tool programmers, though they still work on game titles. But they don’t get that much credit. You see, if UI’s good it’s a given, if it’s crap they get a lot of shit for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tools programmers&lt;/strong&gt;. &lt;br /&gt;
+Those are mostly some unlucky interns, those are baby’s first steps. You can find some veterans hugely passionate about this part of development, but it’s rare. Some get stuck here for no reason(or is it all because of &lt;span style=&quot;color:grey&quot;&gt;&lt;strong&gt;THE VOID&lt;/strong&gt;&lt;/span&gt;?).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Business application programmers&lt;/strong&gt;. &lt;br /&gt;
+See, your company needs software to increase productivity(chat apps, task trackers, extensions and etc.) and somebody has to do it.  &lt;br /&gt;
+You get all the benefits of working in a game company, such as:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;low salary;&lt;/li&gt;
+  &lt;li&gt;bad work-life balance;&lt;/li&gt;
+  &lt;li&gt;random layoff encounter;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But you won’t get credited in a game, because you did not participate in development directly.
+Those guys don’t go to GDC, do no speeches nor interviews, and probably are never to be known by anybody.&lt;br /&gt;
+So, that’s where I am, and that is the bottom. &lt;br /&gt;
+Break into game development is one thing, but once inside at least for engineer there are much more breakthroughs needed to get to exciting work.&lt;/p&gt;
+
+&lt;p&gt;Quoting Stanisław Lec: “When I thought I had already hit the rock-bottom, I heard someone knocking from below”.
+Remembering me making slot machines and gacha games in Unity makes me feel better at my current bottom.&lt;br /&gt;
+Even the guys on the other side of &lt;span style=&quot;color:grey&quot;&gt;&lt;strong&gt;THE VOID&lt;/strong&gt;&lt;/span&gt; may think they are at their own personal bottoms.
+This trail of thought led me to think that game development on itself is the bottom, and we are all in the same boat sailing to the pits. &lt;br /&gt;
+And thus, this blog is about being at the bottom, and in my case even further down below, &lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;at the bottom of gamedev&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="none" /><summary type="html">Privet. My name is Ivan and I work in game development industry. In this blog I plan to write about different engineering things I encounter on my way. Sometimes to share the knowledge, but mostly to preserve what my mind struggles to remember. Topics may very, promise I will try my best to stick to game development. Expect it to lean heavier on engineering side.</summary></entry><entry xml:lang="jp"><title type="html">あの序論のようなやつ</title><link href="http://localhost:4000/jp/none/2020/10/16/introduction.html" rel="alternate" type="text/html" title="あの序論のようなやつ" /><published>2020-10-16T08:53:57-07:00</published><updated>2020-10-16T08:53:57-07:00</updated><id>http://localhost:4000/jp/none/2020/10/16/introduction</id><content type="html" xml:base="http://localhost:4000/jp/none/2020/10/16/introduction.html">&lt;p&gt;TBD&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="none" /><summary type="html">TBD</summary></entry></feed>
