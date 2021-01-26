@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://atthebottomofgame.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://atthebottomofgame.dev/" rel="alternate" type="text/html" /><updated>2020-10-19T06:47:44-07:00</updated><id>https://atthebottomofgame.dev/feed.xml</id><title type="html">AT THE BOTTOM OF GAMEDEV</title><subtitle>Diving in...</subtitle><entry xml:lang="en"><title type="html">That thing that had to be an introduction</title><link href="https://atthebottomofgame.dev/en/none/2020/10/16/introduction.html" rel="alternate" type="text/html" title="That thing that had to be an introduction" /><published>2020-10-16T08:53:57-07:00</published><updated>2020-10-16T08:53:57-07:00</updated><id>https://atthebottomofgame.dev/en/none/2020/10/16/introduction</id><content type="html" xml:base="https://atthebottomofgame.dev/en/none/2020/10/16/introduction.html">&lt;p&gt;Privet. My name is Ivan and I work in game development industry. &lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://atthebottomofgame.dev/feed.xml" rel="self" type="application/atom+xml" /><link href="https://atthebottomofgame.dev/" rel="alternate" type="text/html" /><updated>2021-01-26T09:46:39-08:00</updated><id>https://atthebottomofgame.dev/feed.xml</id><title type="html">AT THE BOTTOM OF GAMEDEV</title><subtitle>Diving in...</subtitle><entry xml:lang="en"><title type="html">That thing that had to be an introduction</title><link href="https://atthebottomofgame.dev/en/none/2020/10/16/introduction.html" rel="alternate" type="text/html" title="That thing that had to be an introduction" /><published>2020-10-16T08:53:57-07:00</published><updated>2020-10-16T08:53:57-07:00</updated><id>https://atthebottomofgame.dev/en/none/2020/10/16/introduction</id><content type="html" xml:base="https://atthebottomofgame.dev/en/none/2020/10/16/introduction.html">&lt;p&gt;Privet. My name is Ivan and I work in game development industry. &lt;br /&gt;
 In this blog I plan to write about different engineering things I encounter on my way. Sometimes to share the knowledge, but mostly to preserve what my mind struggles to remember.&lt;br /&gt;
 Topics may very, promise I will try my best to stick to game development. Expect it to lean heavier on engineering side.&lt;/p&gt;
 
@@ -32,11 +32,50 @@ You get all the benefits of working in a game company, such as:&lt;/p&gt;
 
 &lt;p&gt;But you won’t get credited in a game, because you did not participate in development directly.
 Those guys don’t go to GDC, do no speeches nor interviews, and probably are never to be known by anybody.&lt;br /&gt;
-So, that’s where I am, and that is the bottom. &lt;br /&gt;
+Welcome to the bottom. &lt;br /&gt;
 Break into game development is one thing, but once inside at least for engineer there are much more breakthroughs needed to get to exciting work.&lt;/p&gt;
 
 &lt;p&gt;Quoting Stanisław Lec: “When I thought I had already hit the rock-bottom, I heard someone knocking from below”.
 Remembering me making slot machines and gacha games in Unity makes me feel better at my current bottom.&lt;br /&gt;
 Even the guys on the other side of &lt;span style=&quot;color:grey&quot;&gt;&lt;strong&gt;THE VOID&lt;/strong&gt;&lt;/span&gt; may think they are at their own personal bottoms.
 This trail of thought led me to think that game development on itself is the bottom, and we are all in the same boat sailing to the pits. &lt;br /&gt;
-And thus, this blog is about being at the bottom, and in my case even further down below, &lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;at the bottom of gamedev&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="none" /><summary type="html">Privet. My name is Ivan and I work in game development industry. In this blog I plan to write about different engineering things I encounter on my way. Sometimes to share the knowledge, but mostly to preserve what my mind struggles to remember. Topics may very, promise I will try my best to stick to game development. Expect it to lean heavier on engineering side.</summary></entry><entry xml:lang="jp"><title type="html">あの序論のようなやつ</title><link href="https://atthebottomofgame.dev/jp/none/2020/10/16/introduction.html" rel="alternate" type="text/html" title="あの序論のようなやつ" /><published>2020-10-16T08:53:57-07:00</published><updated>2020-10-16T08:53:57-07:00</updated><id>https://atthebottomofgame.dev/jp/none/2020/10/16/introduction</id><content type="html" xml:base="https://atthebottomofgame.dev/jp/none/2020/10/16/introduction.html">&lt;p&gt;TBD&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="none" /><summary type="html">TBD</summary></entry></feed>
+And thus, this blog is about being at the bottom, and in my case even further down below, &lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;at the bottom of gamedev&lt;/strong&gt;&lt;/span&gt;.&lt;/p&gt;</content><author><name></name></author><category term="en" /><category term="none" /><summary type="html">Privet. My name is Ivan and I work in game development industry. In this blog I plan to write about different engineering things I encounter on my way. Sometimes to share the knowledge, but mostly to preserve what my mind struggles to remember. Topics may very, promise I will try my best to stick to game development. Expect it to lean heavier on engineering side.</summary></entry><entry xml:lang="jp"><title type="html">あの序論のようなやつ</title><link href="https://atthebottomofgame.dev/jp/none/2020/10/16/introduction.html" rel="alternate" type="text/html" title="あの序論のようなやつ" /><published>2020-10-16T08:53:57-07:00</published><updated>2020-10-16T08:53:57-07:00</updated><id>https://atthebottomofgame.dev/jp/none/2020/10/16/introduction</id><content type="html" xml:base="https://atthebottomofgame.dev/jp/none/2020/10/16/introduction.html">&lt;p&gt;こんにちは。名はイワン、ゲーム業界でエンジニアとして働いている。
+このブログでは様々な技術の話をしたいと思う。たまに知識を共通したいため、だが主に記憶が悪いから自分は調査したことを忘れないように。
+ブログの内容では色んな話ありだろうと思うけど、ゲーム開発関連の話をするように頑張る。あくまで自分は技術者だから、エンジニア向け話題けどね。&lt;/p&gt;
+
+&lt;h1 id=&quot;だがしかしなぜ-the-bottom-奥底&quot;&gt;だがしかし、なぜ &lt;span style=&quot;color:red&quot;&gt;the bottom&lt;/span&gt;? （奥底）&lt;/h1&gt;
+&lt;p&gt;では、ゲームエンジニアには階級制があるだと想像してみよう。
+上から下記のようになる：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ゲームプレイエンジニア&lt;/strong&gt;。&lt;br /&gt;
+ゲームの各システムを実装する人たち。プランナーやアーティストと直接すり合わせしたり、仕事を任せたら対応早い人のみ。ストレスも残業も多いけど、面白い話いっぱい聞きたいならここの人飲み会にいて欲しいだろう。こいつはロックスターだぜ。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ゲームエンジンプログラマー&lt;/strong&gt;。&lt;br /&gt;
+隠し知識の魔法使い、誰でもなれるわけない、選ばれし者。珍しいし、望ましい。&lt;/p&gt;
+
+&lt;p&gt;強҉大҉な҉ギ҉ャ҉ッ҉プ҉「҉ザ҉ー҉超҉空҉洞҉」҉,҉ ҉こ҉の҉目҉で҉見҉え҉な҉い҉線҉の҉上҉に҉い҉る҉エ҉ン҉ジ҉ニ҉ア҉が҉超҉空҉洞҉を҉見҉え҉な҉い҉し҉、҉あ҉る҉だ҉と҉把҉握҉し҉て҉な҉い҉.҉ ҉ ҉だ҉が҉、҉ザ҉ー҉超҉空҉洞҉が҉存҉在҉す҉る҉。҉下҉に҉い҉る҉エ҉ン҉ジ҉ニ҉ア҉が҉こ҉れ҉を҉見҉え҉る҉し҉、҉ど҉う҉や҉っ҉て҉浮҉か҉ぶ҉の҉を҉分҉か҉ら҉な҉い҉.҉&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UIプログラマー&lt;/strong&gt;。 &lt;br /&gt;
+本当にいいやつら。ツールプログラマーの仲間だけど、ゲームに直接関わる。功績が認められるの珍しい。だって、UIが良かったら当たり前なことと思われる。クソだったらユーザーの怒りをたっぷり食ってしまう。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ツールプログラマー&lt;/strong&gt;。 &lt;br /&gt;
+主に可愛そうな新卒、やらかしても大変なことにならないようなポジション。ツールに対して情熱いっぱいのベテランもなくはないが、珍しい。よく上の種類になりたいが、ここから先に進まないことよくある。もしかして、それは噂の&lt;span style=&quot;color:grey&quot;&gt;&lt;strong&gt;ザー超空洞&lt;/strong&gt;&lt;/span&gt;のせいかな?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;業務系アプリプログラマー&lt;/strong&gt;。 &lt;br /&gt;
+あのね、あんたの会社にいいゲームだけじゃなくて、他の社員の作業効率を上げるソフトもいるよ（連絡関連、タスク管理、ブラウザープラグイン、などなど）。誰かそれをやらないといけない。&lt;br /&gt;
+そういうもの作りながら、ゲーム会社の特徴メリットを全部いただく：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;低い給料;&lt;/li&gt;
+  &lt;li&gt;ワークライフバランスが悪い;&lt;/li&gt;
+  &lt;li&gt;首ランダムエンカウント（会社潰れる、プロジェクト無くなり、契約終了）;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;後、ゲーム開発に直接関わってないから、クレジット画面に記載されない。ガ〜ン。&lt;br /&gt;
+このプログラマーたちがGDCにいかない、カンファレンスに出演しない、インタービュー聞かれない。&lt;br /&gt;
+奥底へよろしく。&lt;br /&gt;
+ゲーム業界に突入することすでに複雑、でも中にいる時も（少なくともエンジニアに）超えないといけない壁多いです。&lt;/p&gt;
+
+&lt;p&gt;Stanisław Lecの言葉で言えば、「どん底に届いたと思った時に、下からコンコンと聞こえた」。&lt;br /&gt;
+あそこにスロットマシーンやソシャゲーを作る人もいるから、今のどん底がよっぽどマシじゃない？&lt;br /&gt;
+&lt;span style=&quot;color:grey&quot;&gt;&lt;strong&gt;ザー超空洞&lt;/strong&gt;&lt;/span&gt;の向こう側の人たちでも、今の居場所が個人的にどん底だと思っているかもしれない。そういう考えの流れで、やっぱりゲーム業界自体はどん底であるかも。そしてデベロッパーみんな同じ船で奥底へ向かっている。&lt;br /&gt;
+というわけで、このブログがどん底にいるエンジニアの考え事をメモるため、&lt;span style=&quot;color:red&quot;&gt;&lt;strong&gt;at the bottom of gamedev&lt;/strong&gt;&lt;/span&gt;。&lt;/p&gt;</content><author><name></name></author><category term="jp" /><category term="none" /><summary type="html">こんにちは。名はイワン、ゲーム業界でエンジニアとして働いている。 このブログでは様々な技術の話をしたいと思う。たまに知識を共通したいため、だが主に記憶が悪いから自分は調査したことを忘れないように。 ブログの内容では色んな話ありだろうと思うけど、ゲーム開発関連の話をするように頑張る。あくまで自分は技術者だから、エンジニア向け話題けどね。</summary></entry></feed>
